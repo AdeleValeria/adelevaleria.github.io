@@ -60,6 +60,12 @@ const currentPath = Astro.url.pathname;
                 href="/posts">Posts</a
               >
             </li>
+            <li>
+              <a
+                class={currentPath.startsWith("/posts") ? "text-primary" : ""}
+                href="/teaching">Teaching</a
+              >
+            </li>
           </ul>
         </nav>
       </header>

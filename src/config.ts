@@ -43,8 +43,10 @@ export const Config: IConfig = {
     dream: "academic",
   },
   socials: {
-    twitter: "https://twitter.com/adele_valeria",
+    X: "https://twitter.com/adele_valeria",
     github: "https://github.com/AdeleValeria",
+    linkedin: "https://www.linkedin.com/in/adelevaleria/",
+    instagram: "https://www.instagram.com/adele.hobbies/",
   },
   projects: {
     "996.ICU": {
