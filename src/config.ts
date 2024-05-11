@@ -25,7 +25,7 @@ interface IConfig {
 
 export const Config: IConfig = {
   me: {
-    name: "John Doe",
+    name: "Adele Valeria",
     job: "backend engineer",
     started: "1970-01-01",
     stack: "Scratch",
