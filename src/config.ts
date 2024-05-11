@@ -5,8 +5,14 @@ interface IConfig {
     name: string;
     job: string;
     school: string;
+    bachelor: string;
+    school2: string;
     field: string;
-    projectLink: string;
+    advisor: string;
+    hobby1: string;
+    hobby2: string;
+    hobby3: string;
+    dream: string;
   };
   socials: {
     [name: string]: string;
@@ -27,8 +33,14 @@ export const Config: IConfig = {
     name: "Adele Valeria",
     job: "Computational Biology PhD Student",
     school: "Johns Hopkins University",
+    bachelor: "Biomedical Informatics",
+    school2: "Zhejiang University-University of Edinburgh Institute",
     field: "computational immuno-oncology",
-    projectLink: "https://github.com/JohnDoe?tab=repositories",
+    advisor: "Dr. Rachel Karchin",
+    hobby1: "crocheting",
+    hobby2: "cooking",
+    hobby3: "teaching",
+    dream: "academic",
   },
   socials: {
     twitter: "https://twitter.com/JohnDoe",
