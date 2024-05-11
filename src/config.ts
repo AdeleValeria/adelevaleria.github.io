@@ -39,12 +39,12 @@ export const Config: IConfig = {
     advisor: "Dr. Rachel Karchin",
     hobby1: "crocheting",
     hobby2: "cooking",
-    hobby3: "teaching",
+    hobby3: "Teaching",
     dream: "academic",
   },
   socials: {
-    twitter: "https://twitter.com/JohnDoe",
-    github: "https://github.com/JohnDoe",
+    twitter: "https://twitter.com/adele_valeria",
+    github: "https://github.com/AdeleValeria",
   },
   projects: {
     "996.ICU": {
