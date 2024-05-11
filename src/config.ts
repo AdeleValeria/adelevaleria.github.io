@@ -4,7 +4,7 @@ interface IConfig {
   me: {
     name: string;
     job: string;
-    started: string;
+    school: string;
     stack: string;
     hobby: string;
     projectLink: string;
@@ -27,7 +27,7 @@ export const Config: IConfig = {
   me: {
     name: "Adele Valeria",
     job: "PhD Student",
-    started: "2022-08-29",
+    school: "Johns Hopkins University",
     stack: "Scratch",
     hobby: "gamble my life savings",
     projectLink: "https://github.com/JohnDoe?tab=repositories",
